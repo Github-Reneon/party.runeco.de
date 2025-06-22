@@ -1,6 +1,7 @@
 # party.runeco.de
 
 Create a party for pf2e and balance out your strengths. Likely can be supported for other games too in the future.
+This is a sub project. Check out [runeco.de](https://github.com/github-reneon/runeco.de) for the full project.
 
 ## Party
 

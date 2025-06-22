@@ -1,0 +1,16 @@
+body {
+  background-image: url('bg.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  margin: 0;
+  opacity: 0;
+  animation: bg-fade-in 1.5s ease-in forwards;
+}
+
+@keyframes bg-fade-in {
+  to {
+    opacity: 1;
+  }
+}
