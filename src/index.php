@@ -4,7 +4,7 @@
 <body>
   <!-- login page for party.runeco.de -->
   <div class="mx-auto w-screen xl:max-w-4xl">
-    <div class="flex flex-col items-center gap-4 p-4 h-screen bg-gray-100">
+    <div class="flex flex-col items-center gap-4 p-4 min-h-screen bg-gray-100">
       <h1 class="text-5xl mt-4 font-bold">🎉 party.runeco.de</h1>
       <hr class="w-full border-gray-300 my-4">
       <h2 class="text-2xl font-bold">Let's get you signed up!</h2>
