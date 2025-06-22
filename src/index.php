@@ -32,5 +32,6 @@
     </div>
   </div>
   <span id="error_message"></span>
+  <span id="create_new_party_form"></span>
 </body>
 </html>
